@@ -10,4 +10,4 @@ if __name__== "__main__":
             timeout = 12
         )
         # time.sleep(60*60)
-# PS: Use "pythonw .\main.py" to run it in the background
+# PS: Use "python .\main.py" to run it in the background
